@@ -1,0 +1,51 @@
+.main-blog{
+    display: flex;
+  
+    /* border: 2px solid black; */
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+}
+
+.main-blogA{
+    /* border: 2px solid black; */
+    height: 100%;
+    width: 20%;
+    margin: 30px;
+}
+
+.main-blogB{
+    /* border: 2px solid black; */
+    height: 100%;
+    width: 20%;
+    margin: 30px;
+}
+
+.main-blogC{
+    /* border: 2px solid black; */
+    height: 100%;
+    width: 20%;
+    margin: 30px;
+
+}
+
+.main-BlogA1{
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+
+}
+
+.main-BlogA2{
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+
+}
+
+.main-BlogA3{
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+
+}
